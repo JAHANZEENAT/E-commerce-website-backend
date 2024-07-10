@@ -1,0 +1,348 @@
+{
+    "products": [
+        {
+            "productName": "Lipstick",
+            "productCategory": "Makeup",
+            "price": "500",
+            "brand": "Sugar",
+            "availQuantity": "2",
+            "color": "red"
+        },
+        {
+            "productName": "Running Shoes",
+            "productCategory": "Footwear",
+            "price": "2000",
+            "brand": "Nike",
+            "availQuantity": "5",
+            "color": "black"
+        },
+        {
+            "productName": "Smartphone",
+            "productCategory": "Electronics",
+            "price": "25000",
+            "brand": "Samsung",
+            "availQuantity": "10",
+            "color": "blue"
+        },
+        {
+            "productName": "T-shirt",
+            "productCategory": "Clothing",
+            "price": "500",
+            "brand": "Puma",
+            "availQuantity": "20",
+            "color": "white"
+        },
+        {
+            "productName": "Coffee Maker",
+            "productCategory": "Home Appliances",
+            "price": "1500",
+            "brand": "Philips",
+            "availQuantity": "8",
+            "color": "black"
+        },
+        {
+            "productName": "Wristwatch",
+            "productCategory": "Accessories",
+            "price": "3000",
+            "brand": "Fossil",
+            "availQuantity": "15",
+            "color": "brown"
+        },
+        {
+            "productName": "Blender",
+            "productCategory": "Kitchen Appliances",
+            "price": "2000",
+            "brand": "NutriBullet",
+            "availQuantity": "12",
+            "color": "silver"
+        },
+        {
+            "productName": "Desk Lamp",
+            "productCategory": "Furniture",
+            "price": "700",
+            "brand": "Ikea",
+            "availQuantity": "25",
+            "color": "white"
+        },
+        {
+            "productName": "Electric Guitar",
+            "productCategory": "Musical Instruments",
+            "price": "12000",
+            "brand": "Fender",
+            "availQuantity": "5",
+            "color": "sunburst"
+        },
+        {
+            "productName": "Backpack",
+            "productCategory": "Bags",
+            "price": "1500",
+            "brand": "Wildcraft",
+            "availQuantity": "30",
+            "color": "grey"
+        },
+        {
+            "productName": "Sunglasses",
+            "productCategory": "Accessories",
+            "price": "800",
+            "brand": "Ray-Ban",
+            "availQuantity": "40",
+            "color": "black"
+        },
+        {
+            "productName": "Yoga Mat",
+            "productCategory": "Fitness",
+            "price": "600",
+            "brand": "Adidas",
+            "availQuantity": "50",
+            "color": "purple"
+        },
+        {
+            "productName": "Laptop",
+            "productCategory": "Electronics",
+            "price": "45000",
+            "brand": "Dell",
+            "availQuantity": "10",
+            "color": "silver"
+        },
+        {
+            "productName": "Smartwatch",
+            "productCategory": "Electronics",
+            "price": "15000",
+            "brand": "Apple",
+            "availQuantity": "15",
+            "color": "black"
+        },
+        {
+            "productName": "Leather Jacket",
+            "productCategory": "Clothing",
+            "price": "8000",
+            "brand": "Zara",
+            "availQuantity": "5",
+            "color": "black"
+        },
+        {
+            "productName": "Sneakers",
+            "productCategory": "Footwear",
+            "price": "2500",
+            "brand": "Adidas",
+            "availQuantity": "20",
+            "color": "white"
+        },
+        {
+            "productName": "Microwave Oven",
+            "productCategory": "Home Appliances",
+            "price": "5000",
+            "brand": "LG",
+            "availQuantity": "8",
+            "color": "silver"
+        },
+        {
+            "productName": "Bookshelf",
+            "productCategory": "Furniture",
+            "price": "3000",
+            "brand": "Ikea",
+            "availQuantity": "10",
+            "color": "brown"
+        },
+        {
+            "productName": "Electric Kettle",
+            "productCategory": "Kitchen Appliances",
+            "price": "1200",
+            "brand": "Prestige",
+            "availQuantity": "12",
+            "color": "black"
+        },
+        {
+            "productName": "Bluetooth Speaker",
+            "productCategory": "Electronics",
+            "price": "3000",
+            "brand": "JBL",
+            "availQuantity": "20",
+            "color": "blue"
+        },
+        {
+            "productName": "Gaming Console",
+            "productCategory": "Electronics",
+            "price": "30000",
+            "brand": "Sony",
+            "availQuantity": "5",
+            "color": "black"
+        },
+        {
+            "productName": "Running Shorts",
+            "productCategory": "Clothing",
+            "price": "700",
+            "brand": "Nike",
+            "availQuantity": "25",
+            "color": "blue"
+        },
+        {
+            "productName": "Action Camera",
+            "productCategory": "Electronics",
+            "price": "20000",
+            "brand": "GoPro",
+            "availQuantity": "10",
+            "color": "black"
+        },
+        {
+            "productName": "Bicycle",
+            "productCategory": "Sports",
+            "price": "15000",
+            "brand": "Hero",
+            "availQuantity": "10",
+            "color": "red"
+        },
+        {
+            "productName": "Water Bottle",
+            "productCategory": "Fitness",
+            "price": "500",
+            "brand": "CamelBak",
+            "availQuantity": "50",
+            "color": "blue"
+        },
+        {
+            "productName": "Sofa",
+            "productCategory": "Furniture",
+            "price": "20000",
+            "brand": "Ikea",
+            "availQuantity": "5",
+            "color": "grey"
+        },
+        {
+            "productName": "Tablet",
+            "productCategory": "Electronics",
+            "price": "30000",
+            "brand": "Apple",
+            "availQuantity": "8",
+            "color": "gold"
+        },
+        {
+            "productName": "Vacuum Cleaner",
+            "productCategory": "Home Appliances",
+            "price": "7000",
+            "brand": "Dyson",
+            "availQuantity": "15",
+            "color": "purple"
+        },
+        {
+            "productName": "Electric Toothbrush",
+            "productCategory": "Personal Care",
+            "price": "3000",
+            "brand": "Oral-B",
+            "availQuantity": "20",
+            "color": "white"
+        },
+        {
+            "productName": "Hair Dryer",
+            "productCategory": "Personal Care",
+            "price": "2000",
+            "brand": "Philips",
+            "availQuantity": "30",
+            "color": "pink"
+        },
+        {
+            "productName": "Shampoo",
+            "productCategory": "Personal Care",
+            "price": "500",
+            "brand": "Dove",
+            "availQuantity": "100",
+            "color": "white"
+        },
+        {
+            "productName": "Conditioner",
+            "productCategory": "Personal Care",
+            "price": "500",
+            "brand": "Dove",
+            "availQuantity": "100",
+            "color": "white"
+        },
+        {
+            "productName": "Perfume",
+            "productCategory": "Personal Care",
+            "price": "2000",
+            "brand": "Chanel",
+            "availQuantity": "50",
+            "color": "clear"
+        },
+        {
+            "productName": "Moisturizer",
+            "productCategory": "Personal Care",
+            "price": "600",
+            "brand": "Neutrogena",
+            "availQuantity": "60",
+            "color": "white"
+        },
+        {
+            "productName": "Face Wash",
+            "productCategory": "Personal Care",
+            "price": "400",
+            "brand": "Cetaphil",
+            "availQuantity": "80",
+            "color": "white"
+        },
+        {
+            "productName": "Hand Sanitizer",
+            "productCategory": "Personal Care",
+            "price": "200",
+            "brand": "Dettol",
+            "availQuantity": "150",
+            "color": "clear"
+        },
+        {
+            "productName": "Cooking Oil",
+            "productCategory": "Groceries",
+            "price": "150",
+            "brand": "Fortune",
+            "availQuantity": "200",
+            "color": "yellow"
+        },
+        {
+            "productName": "Rice",
+            "productCategory": "Groceries",
+            "price": "100",
+            "brand": "India Gate",
+            "availQuantity": "300",
+            "color": "white"
+        },
+        {
+            "productName": "Wheat Flour",
+            "productCategory": "Groceries",
+            "price": "50",
+            "brand": "Aashirvaad",
+            "availQuantity": "400",
+            "color": "brown"
+        },
+        {
+            "productName": "Pasta",
+            "productCategory": "Groceries",
+            "price": "60",
+            "brand": "Barilla",
+            "availQuantity": "250",
+            "color": "yellow"
+        },
+        {
+            "productName": "Bread",
+            "productCategory": "Groceries",
+            "price": "40",
+            "brand": "Britannia",
+            "availQuantity": "500",
+            "color": "white"
+        },
+        {
+            "productName": "Milk",
+            "productCategory": "Groceries",
+            "price": "25",
+            "brand": "Amul",
+            "availQuantity": "600",
+            "color": "white"
+        },
+        {
+            "productName": "Eggs",
+            "productCategory": "Groceries",
+            "price": "5",
+            "brand": "Fresh",
+            "availQuantity": "1000",
+            "color": "white"
+        }
+    ]
+}
